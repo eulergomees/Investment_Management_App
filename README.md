@@ -69,7 +69,6 @@ Use o comando no terminal: python main.py
 
 - [@eulergomees](https://github.com/eulergomees)
 - [@wanessahela](https://github.com/wanessahelena)
-- [@eulergomees](https://github.com/eulergomees)
 
 
 ## Referência
